@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400804677713",
+    "project_id": "simpleapp-be1bc",
+    "storage_bucket": "simpleapp-be1bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400804677713:android:c4517bfd9275e586d31070",
+        "android_client_info": {
+          "package_name": "com.example.dam_u3_simpleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8bUANNHaRrazOqWGbY1mBcvx0tKAm7-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
